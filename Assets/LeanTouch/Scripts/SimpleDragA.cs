@@ -24,8 +24,8 @@ public class SimpleDragA : MonoBehaviour {
 
     protected virtual void OnDisable()
     {
-		Lean.LeanTouch.OnFingerDown += OnFingerDown;
-		Lean.LeanTouch.OnFingerUp += OnFingerUp;
+		Lean.LeanTouch.OnFingerDown -= OnFingerDown;
+		Lean.LeanTouch.OnFingerUp -= OnFingerUp;
     }
 	
     protected virtual void LateUpdate()
