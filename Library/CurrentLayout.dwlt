@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 887, y: 492}
   m_MaxSize: {x: 16012, y: 14042}
   vertical: 0
-  controlID: 509
+  controlID: 4019
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 610, y: 492}
   m_MaxSize: {x: 12010, y: 14042}
   vertical: 1
-  controlID: 510
+  controlID: 4020
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -158,7 +158,7 @@ MonoBehaviour:
   m_MinSize: {x: 610, y: 221}
   m_MaxSize: {x: 12010, y: 4021}
   vertical: 0
-  controlID: 511
+  controlID: 4021
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -200,7 +200,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 202
     y: 0
-    width: 727
+    width: 684
     height: 490
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
@@ -225,9 +225,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 929
+    x: 886
     y: 0
-    width: 394
+    width: 437
     height: 490
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
@@ -310,9 +310,9 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 931
+    x: 888
     y: 92
-    width: 390
+    width: 433
     height: 469
   m_MaximizeOnPlay: 1
   m_Gizmos: 1
@@ -331,8 +331,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoom: 0
@@ -342,25 +342,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 390
+      width: 433
       height: 452
-    m_Scale: {x: 0.3046875, y: 0.3046875}
-    m_Translation: {x: 195, y: 226}
+    m_Scale: {x: 1, y: 0.80310327}
+    m_Translation: {x: 216.5, y: 226}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -640
-      y: -741.7436
-      width: 1280
-      height: 1483.4872
+      x: -216.5
+      y: -281.4084
+      width: 433
+      height: 562.8168
     m_MinimalGUI: 1
-  m_defaultScale: 0.3046875
+  m_defaultScale: 0.33828124
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 390, y: 469}
+  m_LastWindowPixelSize: {x: 433, y: 469}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -392,9 +392,9 @@ MonoBehaviour:
     height: 469
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: 62070000
     m_LastClickedID: 0
-    m_ExpandedIDs: 22f5ffff8efbffff00000000
+    m_ExpandedIDs: 8220fdfffa20fdff4222fdffe046fdffa247fdffe848fdff1251fdffce51fdff1453fdffeea7fdffd8f6ffffa6fbffff00000000662800001a29000078370000063a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -441,17 +441,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 204
     y: 92
-    width: 723
+    width: 680
     height: 469
   m_SceneLighting: 0
-  lastFramingTime: 8780.242096219417
+  lastFramingTime: 5260.59166417202
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 12.190103, y: 9.599162, z: 32.92718}
+    m_Target: {x: -1.5770192, y: 1.5240778, z: -0.07554515}
     speed: 2
-    m_Value: {x: 12.190103, y: 9.599162, z: 32.92718}
+    m_Value: {x: -1.5770192, y: 1.5240778, z: -0.07554515}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -478,9 +478,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 40.605976
+    m_Target: 11.483726
     speed: 2
-    m_Value: 40.605976
+    m_Value: 11.483726
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -598,19 +598,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Game
+    - Assets/LeanTouch/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Game
+  - Assets/LeanTouch/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Documents\GitHub\HumanAnatomyPuzzleGame
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8e270000
-    m_LastClickedID: 10126
-    m_ExpandedIDs: 3c27000000ca9a3bffffff7f
+    m_SelectedIDs: 44270000
+    m_LastClickedID: 10052
+    m_ExpandedIDs: 000000002a2700007c2700009627000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -638,7 +638,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 3c27000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000002a2700007c2700009627000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -665,8 +665,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: 6e1c0000806ffcff440600003a050000420600007ca200000e230000902500004e250000622b000000000000ec2600002c280000f0240000e6280000722f0000ce270000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: 6e1c0000806ffcff440600003a050000420600007ca200000e230000902500004e250000622b0000ec2600002c280000f0240000e6280000722f0000ce27000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
